@@ -22,7 +22,7 @@ namespace reademail1
 
         private readonly string clientId = "ClienteID Aqui";
         private readonly string tenantId = "TenantID Aqui";
-        //Guardo sempre seu clientSecret
+        //Guarde sempre seu clientSecret
         private readonly string[] scopes = new[] { "Mail.Read", "email" };
 
         public Form1()
